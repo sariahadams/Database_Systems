@@ -1,4 +1,4 @@
---Code for project for 
+--Code for project for Database Systems
 DROP TABLE IF EXISTS STUDENT;
 
 CREATE TABLE STUDENT (
