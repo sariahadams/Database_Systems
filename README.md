@@ -15,4 +15,4 @@ To develop the SQL Code in VSCODE:
    - Leave SSL as disabled
    - For Connection Timeout, set it to 30
    - For Show records default limit, set it to 50
-   - 
+
